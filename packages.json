@@ -1,0 +1,7 @@
+{
+    "packages": {
+        "marko-doornbos/blossom": {
+            "dev-master": { @composer.json }
+        }
+    }
+}
