@@ -1,0 +1,13 @@
+{
+    "name": "marko-doornbos/blossom",
+    "description": "Blossom maximum matching",
+    "authors": [
+        {
+            "name": "Marko Doornbos",
+            "email": "doornbos.marko@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    }
+}
