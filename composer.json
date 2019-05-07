@@ -9,5 +9,10 @@
     ],
     "minimum-stability": "dev",
     "require": {
-    }
+    },
+    "autoload" : {
+		"psr-0" : {
+			"Webpatser\\Uuid" : "src/"
+		}
+	}    
 }
