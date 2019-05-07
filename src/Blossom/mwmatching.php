@@ -23,6 +23,8 @@ to validate this new code.
 
 */
 
+namespace Blossom;
+
 # If assigned, $DEBUG(str) is called with lots of debug messages.
 $DEBUG = null;
 // $DEBUG = function($s) {
